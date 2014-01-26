@@ -67,8 +67,8 @@ a {
     position:absolute;
 }
 
-#logisnake:hover {
-color:#C7B372 ;
+#Doge:hover {
+    color: #C7A334;
 }
 
 #x3 {
@@ -79,8 +79,8 @@ color:#C7B372 ;
     position:absolute;
 }
 
-#Pebble:hover {
-    color: #248F30  ;
+#logisnake:hover {
+ color: #008F10 ;
 }
 
 #x4 {
@@ -90,10 +90,10 @@ color:#C7B372 ;
     top:150%;
     position:absolute;
 }
-
-#Quark:hover {
-    color: #1BB23A ;
+#Pebble:hover {
+    color:#00B224  ;
 }
+
 
 #x5 {
     background-color:#FF6A62;
@@ -103,9 +103,10 @@ color:#C7B372 ;
     position:absolute;
 }
 
-#Oasis:hover {
-   color: #21B259 ;
+#Quark:hover {
+    color: #248F30 ;
 }
+
 
 #x6 {
     background-color:#FF7755;
@@ -114,22 +115,23 @@ color:#C7B372 ;
     top:250%;
     position:absolute;
 }
-
-#HackEPFL:hover {
-    color: #18B280 ;
+#Oasis:hover {
+    color: #1BB23A ;
 }
 
-#x6 {
-    background-color:#E83B99;
+
+#x7 {
+    background-color:#DEBB2B;
     width:100%;
     height:50%;
     top:250%;
     position:absolute;
 }
 
-#Doge:hover {
-    color: #0D9B08 ;
+#HackEPFL:hover {
+     color: #0008DE;
 }
+
 
 /*
 #c1b992 darker yellow
