@@ -119,6 +119,18 @@ color:#C7B372 ;
     color: #18B280 ;
 }
 
+#x6 {
+    background-color:#E83B99;
+    width:100%;
+    height:50%;
+    top:250%;
+    position:absolute;
+}
+
+#Doge:hover {
+    color: #0D9B08 ;
+}
+
 /*
 #c1b992 darker yellow
 #e3daac pastel yellow
@@ -132,6 +144,7 @@ color:#C7B372 ;
 #bbb4a1 dark mustard
 #a09f8a dark gray
 
+E83B99
 
 #1CF9D4 Flash blue-green
 #1DE4DB darker
