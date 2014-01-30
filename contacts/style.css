@@ -107,6 +107,19 @@ color:#C7B372 ;
    color: #21B259 ;
 }
 
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+    p {
+    margin-top:40%;
+    font-weight:bold;
+}
+    li {
+     font-weight:bold;   
+    }
+}
+
 /*
 #c1b992 darker yellow
 #e3daac pastel yellow

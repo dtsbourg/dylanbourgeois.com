@@ -132,6 +132,18 @@ a {
      color: #0008DE;
 }
 
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+    p {
+    margin-top:40%;
+    font-weight:bold;
+}
+    li {
+     font-weight:bold;   
+    }
+}
 
 /*
 #c1b992 darker yellow
