@@ -52,7 +52,7 @@ a {
 }
 
 #x1 {
- background-color:#4F87DC;
+	background-color:#1CF9D4;
     width:100%;
     height:50%;
     top:0;
@@ -60,76 +60,121 @@ a {
 }
 
 #x2 {
- background-color:#727EC7;
+	background-color:#1DE4DB;
     width:100%;
     height:50%;
     top:50%;
     position:absolute;
 }
 
-#Doge:hover {
-    color: #C7A334;
+#Karma:hover {
+	color:#C96733;
 }
 
 #x3 {
- background-color:#DC6387;
+	background-color:#1FD0E2;
     width:100%;
     height:50%;
     top:100%;
     position:absolute;
 }
 
-#logisnake:hover {
- color: #008F10 ;
+#KarmaWeb:hover {
+	color:#C77235;
 }
 
 #x4 {
- background-color:#FF5A72;
+	background-color:#20BBE9;
     width:100%;
     height:50%;
     top:150%;
     position:absolute;
 }
-#Pebble:hover {
-    color:#00B224  ;
+
+#Resistor:hover {
+	color:#CE7217;
 }
 
-
 #x5 {
-    background-color:#FF6A62;
+	background-color:#22A7F0;
     width:100%;
     height:50%;
     top:200%;
     position:absolute;
 }
 
-#Quark:hover {
-    color: #248F30 ;
+#Doge:hover {
+	color:#D59139;
 }
-
 
 #x6 {
-    background-color:#FF7755;
+	background-color:#2392F7;
     width:100%;
     height:50%;
     top:250%;
     position:absolute;
 }
-#Oasis:hover {
-    color: #1BB23A ;
-}
 
+#logisnake:hover {
+	color:#DC9F3B;
+}
 
 #x7 {
-    background-color:#DEBB2B;
+	background-color:#4F87DC;
     width:100%;
     height:50%;
     top:250%;
     position:absolute;
+}
+#Pebble:hover {
+	color:#C1A05E;
+}
+
+#x8 {
+	background-color:#727EC7;
+	width:100%;
+	height:50%;
+	top:300%;
+	position:absolute;
+}
+
+#Dylan:hover {
+	color:#C7A334;
+}
+
+#x9 {
+	background-color:#DC6387;
+	width:100%;
+	height:50%;
+	top:350%;
+	position:absolute;
+}
+
+#Quark:hover {
+	color:#008F10;
+}
+
+#xA {
+	background-color:#FF5A72;
+	width:100%;
+	height:50%;
+	top:400%;
+	position:absolute;
+}
+#Oasis:hover {
+	color:#0008DE;
+}
+
+#xB {
+	background-color:#FF6A62;
+	width:100%;
+	height:50%;
+	top:450%;
+	position:absolute;
 }
 
 #HackEPFL:hover {
-     color: #0008DE;
+	color:#248F30;
 }
 
 @media only screen
@@ -141,32 +186,6 @@ and (max-device-width : 480px) {
     font-weight:bold;
 }
     li {
-     font-weight:bold;   
+     font-weight:bold;
     }
 }
-
-/*
-#c1b992 darker yellow
-#e3daac pastel yellow
-#8f9382 dark gray
-#ccc gray
-#eee cream
-#beaf69 mustard
-#75672f marron
-#dfddcf cream light
-#cccaba cream gray
-#bbb4a1 dark mustard
-#a09f8a dark gray
-
-E83B99
-
-#1CF9D4 Flash blue-green
-#1DE4DB darker
-#1FD0E2
-#20BBE9
-#22A7F0
-
-#FF5A72
-
-#FF7755
-*/
