@@ -42,7 +42,7 @@ li:hover { color: #fff; }
 }
 
 p {
- margin-top:10%;   
+ margin-top:10%;
 }
 
 a {
@@ -108,7 +108,7 @@ a {
 }
 
 #tweet:hover {
-    color:#D59139;
+color:#D59139;
 }
 
 #x6 {
@@ -145,31 +145,6 @@ and (max-device-width : 480px) {
     font-weight:bold;
 }
     li {
-     font-weight:bold;   
+     font-weight:bold;
     }
 }
-
-/*
-#c1b992 darker yellow
-#e3daac pastel yellow
-#8f9382 dark gray
-#ccc gray
-#eee cream
-#beaf69 mustard
-#75672f marron
-#dfddcf cream light
-#cccaba cream gray
-#bbb4a1 dark mustard
-#a09f8a dark gray
-
-
-#1CF9D4 Flash blue-green
-#1DE4DB darker
-#1FD0E2
-#20BBE9
-#22A7F0
-
-#FF5A72
-
-#FF7755
-*/
